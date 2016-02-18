@@ -242,3 +242,7 @@
 2016-02-18 15:54:17,107 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2016-02-18 15:54:17,109 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (utf-8 actually) to copy filtered resources, i.e. build is platform dependent!
 2016-02-18 15:54:17,110 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-02-18 16:33:37,791 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (utf-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-18 16:33:37,806 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-02-18 16:33:37,806 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (utf-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-18 16:33:37,806 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
