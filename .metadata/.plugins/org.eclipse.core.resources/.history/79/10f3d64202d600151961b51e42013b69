@@ -1,0 +1,5 @@
+package com.okdevtv.spring;
+
+public class RegisterController {
+
+}

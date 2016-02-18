@@ -1,0 +1,11 @@
+package com.okdevtv.spring;
+
+import org.springframework.stereotype.Controller;
+
+@Controller
+public class RegisterController {
+
+	public String register(){
+		return "register";
+	}
+}
