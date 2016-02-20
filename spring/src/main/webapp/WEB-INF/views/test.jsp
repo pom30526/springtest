@@ -12,7 +12,7 @@ select id, foo, bar from testdata
   <body>
 
   <h2>Results ggg</h2>
-
+  
 <c:forEach var="row" items="${rs.rows}">
     Foo ${row.foo}<br/>
     Bar ${row.bar}<br/>
