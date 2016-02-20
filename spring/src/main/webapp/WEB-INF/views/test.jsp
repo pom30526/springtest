@@ -9,7 +9,7 @@ select id, foo, bar from testdata
   <head>
     <title>DB Test</title>
   </head>
-  <body>
+  <body>s
 
   <h2>Results </h2>
   
